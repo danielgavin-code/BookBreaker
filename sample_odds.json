@@ -1,0 +1,223 @@
+[
+    {
+        "game": "New York Yankees vs Boston Red Sox",
+        "odds": {
+            "DraftKings": {
+                "Yankees": "-130",
+                "Red Sox": "+110"
+            },
+            "FanDuel": {
+                "Yankees": "-135",
+                "Red Sox": "+115"
+            },
+            "BetMGM": {
+                "Yankees": "-128",
+                "Red Sox": "+108"
+            }
+        }
+    },
+    {
+        "game": "Los Angeles Dodgers vs San Francisco Giants",
+        "odds": {
+            "DraftKings": {
+                "Dodgers": "-145",
+                "Giants": "+125"
+            },
+            "FanDuel": {
+                "Dodgers": "-150",
+                "Giants": "+130"
+            },
+            "BetMGM": {
+                "Dodgers": "-142",
+                "Giants": "+122"
+            }
+        }
+    },
+    {
+        "game": "Chicago Cubs vs St. Louis Cardinals",
+        "odds": {
+            "DraftKings": {
+                "Cubs": "+105",
+                "Cardinals": "-125"
+            },
+            "FanDuel": {
+                "Cubs": "+110",
+                "Cardinals": "-130"
+            },
+            "BetMGM": {
+                "Cubs": "+102",
+                "Cardinals": "-122"
+            }
+        }
+    },
+    {
+        "game": "Houston Astros vs Texas Rangers",
+        "odds": {
+            "DraftKings": {
+                "Astros": "-120",
+                "Rangers": "+100"
+            },
+            "FanDuel": {
+                "Astros": "-125",
+                "Rangers": "+105"
+            },
+            "BetMGM": {
+                "Astros": "-118",
+                "Rangers": "-102"
+            }
+        }
+    },
+    {
+        "game": "Philadelphia Phillies vs Atlanta Braves",
+        "odds": {
+            "DraftKings": {
+                "Phillies": "+115",
+                "Braves": "-135"
+            },
+            "FanDuel": {
+                "Phillies": "+120",
+                "Braves": "-140"
+            },
+            "BetMGM": {
+                "Phillies": "+112",
+                "Braves": "-132"
+            }
+        }
+    },
+    {
+        "game": "Toronto Blue Jays vs Baltimore Orioles",
+        "odds": {
+            "DraftKings": {
+                "Blue Jays": "-110",
+                "Orioles": "-110"
+            },
+            "FanDuel": {
+                "Blue Jays": "-112",
+                "Orioles": "-108"
+            },
+            "BetMGM": {
+                "Blue Jays": "-115",
+                "Orioles": "-105"
+            }
+        }
+    },
+    {
+        "game": "Cleveland Guardians vs Minnesota Twins",
+        "odds": {
+            "DraftKings": {
+                "Guardians": "-125",
+                "Twins": "+105"
+            },
+            "FanDuel": {
+                "Guardians": "-130",
+                "Twins": "+110"
+            },
+            "BetMGM": {
+                "Guardians": "-122",
+                "Twins": "+102"
+            }
+        }
+    },
+    {
+        "game": "Miami Marlins vs Milwaukee Brewers",
+        "odds": {
+            "DraftKings": {
+                "Marlins": "+135",
+                "Brewers": "-155"
+            },
+            "FanDuel": {
+                "Marlins": "+140",
+                "Brewers": "-160"
+            },
+            "BetMGM": {
+                "Marlins": "+132",
+                "Brewers": "-152"
+            }
+        }
+    },
+    {
+        "game": "Seattle Mariners vs Detroit Tigers",
+        "odds": {
+            "DraftKings": {
+                "Mariners": "-140",
+                "Tigers": "+120"
+            },
+            "FanDuel": {
+                "Mariners": "-145",
+                "Tigers": "+125"
+            },
+            "BetMGM": {
+                "Mariners": "-138",
+                "Tigers": "+118"
+            }
+        }
+    },
+    {
+        "game": "Kansas City Royals vs Tampa Bay Rays",
+        "odds": {
+            "DraftKings": {
+                "Royals": "+150",
+                "Rays": "-170"
+            },
+            "FanDuel": {
+                "Royals": "+155",
+                "Rays": "-175"
+            },
+            "BetMGM": {
+                "Royals": "+148",
+                "Rays": "-168"
+            }
+        }
+    },
+    {
+        "game": "Pittsburgh Pirates vs Cincinnati Reds",
+        "odds": {
+            "DraftKings": {
+                "Pirates": "-105",
+                "Reds": "-115"
+            },
+            "FanDuel": {
+                "Pirates": "-102",
+                "Reds": "-118"
+            },
+            "BetMGM": {
+                "Pirates": "-110",
+                "Reds": "-110"
+            }
+        }
+    },
+    {
+        "game": "Colorado Rockies vs Arizona Diamondbacks",
+        "odds": {
+            "DraftKings": {
+                "Rockies": "+125",
+                "Diamondbacks": "-145"
+            },
+            "FanDuel": {
+                "Rockies": "+130",
+                "Diamondbacks": "-150"
+            },
+            "BetMGM": {
+                "Rockies": "+122",
+                "Diamondbacks": "-142"
+            }
+        }
+    },
+    {
+        "game": "San Diego Padres vs Los Angeles Angels",
+        "odds": {
+            "DraftKings": {
+                "Padres": "-135",
+                "Angels": "+115"
+            },
+            "FanDuel": {
+                "Padres": "-140",
+                "Angels": "+120"
+            },
+            "BetMGM": {
+                "Padres": "-132",
+                "Angels": "+112"
+            }
+        }
+    }
+]
